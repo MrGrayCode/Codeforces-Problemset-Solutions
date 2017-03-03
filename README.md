@@ -15,3 +15,6 @@ cd Cpp
 ```bash
 cd Python
 ```
+
+## Download as zip file
+  Click [here](https://github.com/Poirot1729/Codeforces-Problemset-Solutions/archive/master.zip) to download as a zip file

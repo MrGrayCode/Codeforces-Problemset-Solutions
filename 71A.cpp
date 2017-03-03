@@ -1,3 +1,8 @@
+/*
+* Link for the problem statement
+* http://codeforces.com/problemset/problem/71/A
+*/
+
 #include<bits/stdc++.h>
 using namespace std;
 typedef long long int INT;

@@ -6,14 +6,23 @@ This repository contains my solutions to the [Codeforces Problemset](http://code
 ```bash
 git clone https://github.com/Poirot1729/Codeforces-Problemset-Solutions.git
 ```
+### Using Cpp codes:
 * Browse to Cpp solutions:
 ```bash
 cd Cpp
 ```
-
+* Compile and run the code:
+```bash
+g++ file_name.cpp -o exe_name && ./exe_name
+```
+### Using Python codes
 * Browse to Python3 solutions:
 ```bash
 cd Python
+```
+* Compile and run the code:
+```bash
+python3 file_name.py 
 ```
 
 ## Download as zip file

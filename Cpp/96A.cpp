@@ -1,6 +1,6 @@
 /*
 * Link for the problem statement
-* http://codeforces.com/problemset/problem/282/A
+* http://codeforces.com/problemset/problem/96/A
 */
 
 #include<bits/stdc++.h>

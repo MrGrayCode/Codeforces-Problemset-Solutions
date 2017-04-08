@@ -1,0 +1,10 @@
+a=int(input())
+b=int(input())
+c=int(input())
+ans=a*b*c
+ans=max((a+b)*c,ans)
+ans=max(a+(b*c),ans)
+ans=max((a*b)+c,ans)
+ans=max(a*(b+c),ans)
+ans=max(a+b+c,ans)
+print(ans)

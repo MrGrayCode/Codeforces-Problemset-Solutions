@@ -7,7 +7,7 @@ This repository contains my solutions to the [Codeforces Problemset](http://code
 git clone https://github.com/Poirot1729/Codeforces-Problemset-Solutions.git
 ```
 ### Using Cpp codes:
-* Browse to Cpp solutions:
+* Browse to C++ solutions:
 ```bash
 cd Cpp
 ```
